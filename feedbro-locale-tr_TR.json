@@ -262,7 +262,7 @@
     "options_inactivelimit_body": "Pasif besleme sınırı",
     "options_inactivelimit_select_title": "Beslemede en son gönderi X gün önceyse, besleme pasif kabul edilir ve Besleme İstatistikleri görünümünde otomatik olarak kaldırılmak üzere seçilir.",
     "options_inactivelimit_unit_body": "günler",
-    "options_dateformat_body": "Tarih biçimi"
+    "options_dateformat_body": "Tarih biçimi",
     "options_article_titlefontsize_body": "Makale başlığı yazı boyutu",
     "options_article_titlefontsize_select_title": "Makale başlığı metninin varsayılan ayara göre göreli boyutu",
     "options_article_bodyfontsize_body": "Makale gövdesi yazı boyutu",

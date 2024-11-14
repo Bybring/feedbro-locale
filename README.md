@@ -6,6 +6,6 @@ In the settings of Feedbro deposit the following link to switch the user interfa
 
 Feedbro Language: Feedbro > Options/Settings Page > User interface language > Import locale > URL address of the Feedbro Locale (JSON-file):
 
-https://raw.githubusercontent.com/YEWl/feedbro-locale/master/feedbro-locale-zh_CN.json
+https://raw.githubusercontent.com/Bybring/feedbro-locale/refs/heads/master/feedbro-locale-tr_TR.json
 
 # GNU General Public License v3.0
